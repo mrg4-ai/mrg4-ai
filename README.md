@@ -108,7 +108,7 @@ Tienda online moderna con integración de pagos.
 
 📧 julioxenrique@gmail.com
 
-🌐 Portfolio: https://mi-portfolio.com
+🌐 [Portfolio](https://portfolio-bice-chi-34.vercel.app)
 
 ---
 
