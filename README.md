@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Julio García</h1>
+<h1>👋 Hola, soy Julio García</h1>
 
 <h3 align="center">
 Frontend Developer | React • Next.js • TypeScript
