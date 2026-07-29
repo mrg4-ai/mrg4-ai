@@ -1,10 +1,10 @@
 <h1>👋 Hola, soy Julio García</h1>
 
-<h3 align="center">
+<h2>
 Frontend Developer | React • Next.js • TypeScript
-</h3>
+</h2>
 
-<p align="center">
+<p>
 Apasionado por construir aplicaciones web modernas y escalables.
 Actualmente ampliando mis habilidades hacia el desarrollo Full Stack con NestJS, PostgreSQL y Docker.
 </p>
